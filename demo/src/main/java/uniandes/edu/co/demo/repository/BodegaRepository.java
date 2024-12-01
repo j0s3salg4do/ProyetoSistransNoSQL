@@ -19,9 +19,3 @@ public interface BodegaRepository extends MongoRepository<Bodega, String> {
     // Eliminar una bodega por su ID
     void deleteById(String id);
 }
-
-
-public class BodegaRepository { 
-
-    
-}

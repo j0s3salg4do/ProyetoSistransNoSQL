@@ -1,4 +1,4 @@
-package main.java.uniandes.edu.co.demo.controller;
+package uniandes.edu.co.demo.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
