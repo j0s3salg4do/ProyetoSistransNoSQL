@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ArregloE_R" id="E41A23F9-B20A-BBD1-CB02-E4A72CA80706" version="3.5">
+<createdBy>diplo</createdBy>
+<createdTime>2024-09-30 16:05:40 UTC</createdTime>
+<ownerDesignName>ArregloE_R</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>E41A23F9-B20A-BBD1-CB02-E4A72CA80706</designId>
+</OSDM_Design>
